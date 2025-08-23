@@ -1,4 +1,4 @@
-#flying ado
+# flying ado
 
 from https://github.com/aaarafat/JS-Flappy-Bird
 
