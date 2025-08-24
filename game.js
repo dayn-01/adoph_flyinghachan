@@ -129,7 +129,7 @@ const bird = {
     { sprite: new Image() },
   ],
   rotatation: 0,
-  x: 50,
+  x: 44,
   y: 98,
   speed: 0,
   gravity: 0.140,
