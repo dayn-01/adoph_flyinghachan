@@ -89,7 +89,7 @@ const bg = {
 const pipe = {
   top: { sprite: new Image() },
   bot: { sprite: new Image() },
-  gap: 80,
+  gap: 85,
   moved: true,
   pipes: [],
   draw: function () {
@@ -130,10 +130,10 @@ const bird = {
   ],
   rotatation: 0,
   x: 50,
-  y: 95,
+  y: 98,
   speed: 0,
   gravity: 0.135,
-  thrust: 3.2,
+  thrust: 3.3,
   frame: 0,
   draw: function () {
     let h = this.animations[this.frame].sprite.height;
